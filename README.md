@@ -1,4 +1,4 @@
-### Hi there, I'm Guriqbal - aka [iSingh] 👋
+### Hi there, I'm Guriqbal - aka [iSingh][instagram] 👋
 
 ## I'm a Student, and a Developer!
 
