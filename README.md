@@ -38,3 +38,4 @@
 [facebook]: https://www.facebook.com/iSingh16
 [twitter]: https://twitter.com/iGuriqbalSingh
 [instagram]: https://www.instagram.com/_isingh_/
+[gmail]: singhguriqbal20@gmail.com
