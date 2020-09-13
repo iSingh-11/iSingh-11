@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on small projects!
 - 🌱 I’m currently learning various technologies and tools like Maven, Git & Github and more..
-- 👯 I’m always open for collaboration with other content creators for knowlegde as well as experience
+- 👯 I’m always open for collaboration with other content creators as a part of building my own experience
 - 🥅 2020 Goals: Get confident enough on languages and tools that i use
 - ⚡ Fun fact: I love to have a background music while i am working on my tools
 
