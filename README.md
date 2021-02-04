@@ -8,6 +8,8 @@
 - 🥅 2021 Goals: Get confident enough on languages and tools that i am learning and using!
 - ⚡ Fun fact: I love to have a background music while i am at my work :)
 
+# <a href="https://isingh-11.github.io/">Find More About Me</a>
+
 ### Connect with me:
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][facebook]
