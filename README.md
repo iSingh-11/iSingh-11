@@ -7,7 +7,7 @@
 - 👯 Always open for collaboration with other devs as a part of building my own experience.
 - 🥅 2021 Goals: Get confident enough on languages and tools that i am learning and using!
 - ⚡ Fun fact: I love to have a background music while i am at my work :)
-- 👨🏻‍💻 <a href="https://isingh-11.github.io/">More About Me</a>
+- 👨🏻‍💻 See more about me <a href="https://isingh-11.github.io/" target="_blank">here</a>
 
 ### Connect with me:
 
