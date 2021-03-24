@@ -31,6 +31,7 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+<img align="left" alt="ASP.NET" width="26px" src="https://coniferllp.com/Products/asp.net-logo.png" />
 <br />
 <br />
 
@@ -39,4 +40,4 @@
 [facebook]: https://www.facebook.com/iSingh16
 [twitter]: https://twitter.com/iGuriqbalSingh
 [instagram]: https://www.instagram.com/_isingh_/
-[gmail]: guriqbal.singh11@yahoo.in
+[mail]: guriqbal.singh11@yahoo.in
