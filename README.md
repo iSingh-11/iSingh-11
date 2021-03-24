@@ -4,7 +4,7 @@
 
 - 🔭 My Current Tech Stack : Java, C#, ASP.NET, jQuery, Bootstrap, SQL
 - 👯 Always open for collaboration with other devs as a part of building my own experience
-- 🥅 Goals: Growing up as a better programmer as well as developer every day!
+- 🥅 Goals: Grow up as a better programmer as well as developer every day!
 - ⚡ Fun fact: I love to have a background music at my workspace though my Boss doesn't like :)
 - 👨🏻‍💻 See more about me <a href="https://isingh-11.github.io/" target="_blank">here</a>
 
@@ -26,7 +26,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Maven" width="26px" src="https://larocqueinc.com/wp-content/uploads/2020/02/Maven-logo-300x300.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
