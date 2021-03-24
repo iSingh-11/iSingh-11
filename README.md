@@ -3,10 +3,10 @@
 ## I'm a Full Stack Developer!
 
 - 🔭 My Current Tech Stack : Java, C#, ASP.NET, jQuery, Bootstrap, SQL
-- 👯 Always open for collaboration with other devs as a part of building my own experience
-- 🥅 Goals: Grow up as a better programmer as well as developer every day!
-- ⚡ Fun fact: I love to have a background music at my workspace though my Boss doesn't like :)
-- 👨🏻‍💻 See more about me <a href="https://isingh-11.github.io/" target="_blank">here</a>
+- 👯 Always Open for Collaboration with Other Devs as a part of building my own Experience
+- 🥅 Goals: Grow up as a Better Programmer as well as Developer every day!
+- ⚡ Fun Fact: I love to have a Background Music at my Workspace though my Boss doesn't like :)
+- 👨🏻‍💻 See More about me <a href="https://isingh-11.github.io/" target="_blank">here</a>
 
 ### Connect with me:
 
