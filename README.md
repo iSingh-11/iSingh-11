@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 My Current Tech Stack : Java, C#, .NET, jQuery, Bootstrap, SQL, MVC Structure
+- 🔭 My Current Tech Stack : Java, C#, .NET, jQuery, Bootstrap, PL/SQL, MVC Architecture
 - 👯 Always Open for Collaboration with Other Devs as a part of building my own Experience
 - 🥅 Goals: Grow up as a Better Programmer as well as Developer every day!
 - ⚡ Fun Fact: I love to have a Background Music at my Workspace though my Boss doesn't like :)
