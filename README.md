@@ -18,22 +18,22 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jQuery" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
-<img align="left" alt="Bootstrap" width="28px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
-<img align="left" alt="PL/SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Maven" width="28px" src="https://larocqueinc.com/wp-content/uploads/2020/02/Maven-logo-300x300.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="28px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" />
-<img align="left" alt="C" width="28px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
-<img align="left" alt="Java" width="28px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
-<img align="left" alt="C#" width="28px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img align="left" alt="ASP.NET" width="28px" src="https://coniferllp.com/Products/asp.net-logo.png" />
-<img align="left" alt="Web API" width="28px" src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" />
-<img align="left" alt="MVC" width="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw3PTarqWeUI-J6S6wCKPIeaz6mMFtf2jQdWT8EGK8RFK2ot5LreugYAjPMCMkVCmE9U&usqp=CAU" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="jQuery" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
+<img align="left" alt="Bootstrap" width="30px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
+<img align="left" alt="PL/SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Maven" width="30px" src="https://larocqueinc.com/wp-content/uploads/2020/02/Maven-logo-300x300.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" />
+<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
+<img align="left" alt="C#" width="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+<img align="left" alt="ASP.NET" width="30px" src="https://coniferllp.com/Products/asp.net-logo.png" />
+<img align="left" alt="Web API" width="30px" src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" />
+<img align="left" alt="MVC" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw3PTarqWeUI-J6S6wCKPIeaz6mMFtf2jQdWT8EGK8RFK2ot5LreugYAjPMCMkVCmE9U&usqp=CAU" />
 <br />
 <br />
 
