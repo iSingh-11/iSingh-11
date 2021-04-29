@@ -27,11 +27,7 @@
 <img align="left" alt="NodeJs" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
 <img align="left" alt="Angular" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="TypeScript" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-
-<br />
-<br />
-
-<img align="left" alt="C" style="margin-top:10px;" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
+<img align="left" alt="C" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
 <img align="left" alt="Java" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
 <img align="left" alt="Python" width="27px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="C#" height="30px" width="47px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
