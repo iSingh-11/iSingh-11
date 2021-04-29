@@ -32,7 +32,7 @@
 <img align="left" alt="C" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
 <img align="left" alt="Java" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
 <img align="left" alt="Python" width="27px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
-<img align="left" alt="C#" height="36px" width="36px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
+<img align="left" alt="C#" height="30px" width="45px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
 <img align="left" alt="ASP.NET" height="36px" width="36px" src="https://coniferllp.com/Products/asp.net-logo.png" />
 <img align="left" alt="Web API" width="27px" src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" />
 <img align="left" alt="MVC" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw3PTarqWeUI-J6S6wCKPIeaz6mMFtf2jQdWT8EGK8RFK2ot5LreugYAjPMCMkVCmE9U&usqp=CAU" />
