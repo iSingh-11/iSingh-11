@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<img alt="C" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
+<img align="left" alt="C" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
 <img align="left" alt="Java" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
 <img align="left" alt="Python" width="27px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="C#" height="30px" width="47px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
