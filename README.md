@@ -27,15 +27,21 @@
 <img align="left" alt="NodeJs" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
 <img align="left" alt="Angular" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="TypeScript" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="PL/SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
+
 <img align="left" alt="C" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
 <img align="left" alt="Java" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
 <img align="left" alt="Python" width="27px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
-<img align="left" alt="C#" style="margin-right:-17px !important;"height="30px" width="47px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
-<img align="left" alt="ASP.NET" style="margin-left:-17px !important;" height="36px" width="36px" src="https://coniferllp.com/Products/asp.net-logo.png" />
-<img align="left" alt="Web API" width="27px" src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" />
+<img align="left" alt="C#" height="30px" width="47px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
+<img align="left" alt=".NET" height="36px" width="36px" src="https://coniferllp.com/Products/asp.net-logo.png" />
+<img align="left" alt="PL/SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Web APIs" width="27px" src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" />
 <img align="left" alt="MVC" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw3PTarqWeUI-J6S6wCKPIeaz6mMFtf2jQdWT8EGK8RFK2ot5LreugYAjPMCMkVCmE9U&usqp=CAU" />
+
+<br />
+
+<img align="left" alt="Git" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
 <br />
 
