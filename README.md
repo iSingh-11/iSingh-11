@@ -32,7 +32,7 @@
 <br />
 
 <img align="left" alt="C" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c_512x512.png" />
-<img alt="Java" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
+<img align="left" alt="Java" style="margin-top:-10px;" width="27px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_512x512.png" />
 <img align="left" alt="Python" width="27px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="C#" height="30px" width="47px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
 <img align="left" alt=".NET" height="36px" width="36px" src="https://coniferllp.com/Products/asp.net-logo.png" />
