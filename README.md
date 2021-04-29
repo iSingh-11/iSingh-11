@@ -35,7 +35,7 @@
 <img align="left" alt="PL/SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Web APIs" width="27px" src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" />
 <img align="left" alt="MVC" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw3PTarqWeUI-J6S6wCKPIeaz6mMFtf2jQdWT8EGK8RFK2ot5LreugYAjPMCMkVCmE9U&usqp=CAU" />
-<img align="left" alt="Git" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<!--<img align="left" alt="Git" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />-->
 <br />
 <br />
 
