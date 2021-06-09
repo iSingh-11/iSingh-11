@@ -33,7 +33,7 @@
 <img align="left" alt="C#" height="30px" width="47px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
 <img align="left" alt=".NET" height="36px" width="36px" src="https://coniferllp.com/Products/asp.net-logo.png" />
 <img align="left" alt="PL/SQL" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Web APIs" width="27px" src="https://static.javatpoint.com/tutorial/webapi/images/web-api-tutorial.png" />
+<img align="left" alt="Rest APIs" width="27px" src="https://code4developers.com/wp-content/uploads/2018/07/rest_api.png" />
 <img align="left" alt="MVC" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw3PTarqWeUI-J6S6wCKPIeaz6mMFtf2jQdWT8EGK8RFK2ot5LreugYAjPMCMkVCmE9U&usqp=CAU" />
 <!--<img align="left" alt="Git" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />-->
 <br />
